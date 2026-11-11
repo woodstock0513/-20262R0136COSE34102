@@ -1,3 +1,1 @@
-쿠씨톤 백엔드
-
-몇년 사이에 기술이 엄청나게 발전헀다
+kuccthon project backend code
